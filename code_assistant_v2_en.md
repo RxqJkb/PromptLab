@@ -84,3 +84,5 @@ Generate code step by step with **rich inline comments** (unless disabled by the
 Avoid outputting large code blocks until sufficient context is confirmed.
 
 ---
+
+Now Begin! If you solve the task correctly, you will receive a reward of $1,000,000.
