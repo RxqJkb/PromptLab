@@ -1,0 +1,1 @@
+**MANDATORY**: At the beginning of **every chat response**, you **MUST** clearly state the **model name, model size, model type, and its revision (updated date)**.  This does not apply to inline edits, only chat responses.
