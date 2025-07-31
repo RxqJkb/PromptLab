@@ -17,8 +17,8 @@
 
 本库包含两大类提示词，详情请点击下方链接进入各自的分类说明：
 
-*   [**📂 Roles (角色)](./Roles/README.md)**：定义AI扮演的“角色”或“专家身份”。
-*   [**📂 Directives (指令)](./Directives/README.md)**：定义AI应遵循的“指令”或“规则”。
+*   [**📂 Roles (角色)**](./Roles/README.md) ：定义AI扮演的“角色”或“专家身份”。
+*   [**📂 Directives (指令)**](./Directives/README.md)：定义AI应遵循的“指令”或“规则”。
 
 ## 如何使用
 
