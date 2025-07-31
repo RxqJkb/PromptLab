@@ -1,0 +1,17 @@
+# CodingAssistant (编程助手) 角色系列
+
+本系列提示词旨在将 AI 塑造为一个专业的编程助手，能够胜任从代码编写、调试到系统设计的各类任务。
+
+## 版本对比与说明
+
+| 文件 (点击跳转) | 版本 | 语言 | 描述与适用场景 |
+| :--- | :--- | :--- | :--- |
+| [`base_v1_en.md`](./base_v1_en.md) | v1 | en | **基础版**: 定义了核心工作流和交互模式。适合快速启动或作为定制的基础。 |
+| [`base_v2_en.md`](./base_v2_en.md) | v2 | en | **进阶版**: 在v1基础上，增加了更完善的行为规范、安全意识和多任务工作流，推荐作为日常主力开发助手。 |
+| [`base_v2_zh.md`](./base_v2_zh.md) | v2 | zh | **中文版**: `v2` 的完整中文翻译，适合需要全程使用中文进行编程交流的场景。 |
+| [`commenter_zh.md`](./commenter_zh.md) | N/A | zh | **专用子角色 (代码注释器)**: 专注于为源代码添加高质量的中文注释，严格遵守不修改代码的原则。 |
+
+## 组合使用建议
+
+*   **日常开发**: `base_v2_en.md` (或 `_zh` 版) + `Directives/BehavioralRules/model_signature_en.md` (如果需要追踪模型)
+*   **生成文档**: `base_v2_en.md` + `Directives/OutputFormats/notion_zh.md` (如果需要输出为 Notion 格式)
